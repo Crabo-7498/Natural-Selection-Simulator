@@ -1,10 +1,7 @@
-Particle World
+Particle Simulations
 ====================
 
-Simulations made in Unity that feature particles<br>
-Some of these simulations include
-- Natural Selection Simulator
-- Social Credit Simulator
+Natural selection simulation made in Unity that feature particles creates<br>
 
 ## Natural Selection Simulator
 - This is a working simulation of a two level Predator and Prey scenario. Both species will evolve slowly and develop new stratagies for survival
