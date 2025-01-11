@@ -1,4 +1,4 @@
-Particle Simulations
+Particle World
 ====================
 
 Simulations made in Unity that feature particles<br>
