@@ -1,5 +1,15 @@
-Particle Simulations
-====================
+<div align='center'>
+	<h1 align='center'>Particle Simulations</h1>
+	<img
+	    src="https://img.shields.io/github/license/vincent-qc/particle-simulations?style=for-the-badge"
+	    alt="License"
+	/>
+	<img
+		src='https://img.shields.io/github/languages/top/vincent-qc/particle-simulations.svg?style=for-the-badge&color=violet'
+		alt='Language'
+	/>
+</div>
+
 
 Natural selection simulation made in Unity that feature particles creates<br>
 
